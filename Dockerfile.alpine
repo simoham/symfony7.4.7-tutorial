@@ -1,0 +1,3 @@
+RUN apk update 
+RUN apk add php84-bcmath php84-bz2 php84-calendar php84-ctype php84-curl php84-dom php84-gd php84-iconv php84-intl php84-mbstring php84 nginx php84-fpm php84-phar bash curl php84-posix php84-pdo php84-xml php84-apcu php84-mysql php84-mysqli php84-session php84-simplexml php84-tokenizer php84-opcache php84-sqlite3 php84-pgsql php84-mysql php84-pdo_mysql php84-pdo_pgsql php84-pdo_sqlite3 git
+
